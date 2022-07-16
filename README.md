@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ... full stack web dev
 - 💞️ I’m looking to collaborate on ... intresting project
-- 📫 How to reach me ... will update soon
+- 📫 How to reach me ... pramoodjena@gmail.com
 
 <!---
 Pramodjena/Pramodjena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

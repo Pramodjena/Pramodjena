@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pramod Kumar Jena</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodjena&label=Profile%20views&color=0e75b6&style=flat" alt="pramodjena" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
@@ -11,6 +10,8 @@
 
 - 📫 How to reach me **pramoodjena@gmail.com**
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodjena&label=Profile%20views&color=0e75b6&style=flat" alt="pramodjena" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/pramodjena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pramodjena" height="30" width="40" /></a>

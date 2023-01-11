@@ -17,7 +17,7 @@
 
 - 📬  How to reach me <b>**pramoodjena@gmail.com**</b>
 
-- 👨‍💻 Know more about me <b><a href="https://sudipa06.github.io" target="_blank">PORTFOLIO</a></b>
+- 👨‍💻 Know more about me <b><a href="https://pramodjena.github.io" target="_blank">PORTFOLIO</a></b>
 
 - 📄 Check out my <b><a href="./" target="_blank">RESUME</a></b>
 

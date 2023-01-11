@@ -5,6 +5,7 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Web+Developer;React+Developer;Quick+learner&color=cyan&center=true" />
 </div>
 </a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodjena&label=Profile%20views&color=0e75b6&style=flat" alt="pramodjena" /> </p>
 <img src="https://avatars.githubusercontent.com/u/103576706?s=400&u=f76e4c84ddf3a8dae5c727c1bb7ecccae85fed4f&v=4" alt="Pramod" align="right"; width="350";/>
 
 <h3> 🙋‍♂️ About Me </h3>

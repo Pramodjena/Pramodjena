@@ -1,26 +1,28 @@
 
 <h1 align="center">Hi 👋, I'm Pramod Kumar Jena</h1>
-<h3 align="center">A Passionate Full Stack Web developer From India</h3>
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Web+Developer;React+Developer;Quick+learner&color=cyan&center=true" />
 </div>
+<h4 align="center">Hi friends , I'm Pramod. I'm a passionate full stack web developer from Cuttack , Odisha , India.
+ I believe everything is learnable in the world but in one condition you should have a strong desire for that.
+</h4>
 </a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodjena&label=Profile%20views&color=0e75b6&style=flat" alt="pramodjena" /> </p>
-<img src="https://avatars.githubusercontent.com/u/103576706?s=400&u=f76e4c84ddf3a8dae5c727c1bb7ecccae85fed4f&v=4" alt="Pramod" align="right"; width="350";/>
+<img height="200px" width="400px" align="right" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
 
 <h3> 🙋‍♂️ About Me </h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
-
-- 👯 I’m looking forward to work as Full Stack Web Developer
-
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Node, MongoDB, Express**
-
-- 📬  How to reach me <b>**pramoodjena@gmail.com**</b>
-
+- 👯 I’m looking forward to work as a **Full Stack Web Developer**
+- 💬 Ask me about **HTML,CSS,JavaScript,React,Redux,Node,Express,MongoDB**
+- 📬 How to reach me <b>**pramoodjena@gmail.com**</b>
 - 👨‍💻 Know more about me <b><a href="https://pramodjena.github.io" target="_blank">PORTFOLIO</a></b>
+- 📄 Don't forget to check out my <b><a href="./" target="_blank">RESUME</a></b>
 
-- 📄 Check out my <b><a href="./" target="_blank">RESUME</a></b>
+
+
+<h3 align="right">QUOTE OF THE DAY - " Happiness is real , when shared."</h3>
+   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

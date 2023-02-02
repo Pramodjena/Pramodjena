@@ -17,6 +17,7 @@
 - 💬 Ask me about **HTML,CSS,JavaScript,React,Redux,Node,Express,MongoDB**
 - 📬 How to reach me <b>**pramoodjena@gmail.com**</b>
 - 👨‍💻 Know more about me <b><a href="https://pramodjena.github.io" target="_blank">PORTFOLIO</a></b>
+- Portfolio Link : https://pramodjena.github.io/
 - 📄 Don't forget to check out my <b><a href="https://drive.google.com/file/d/1dBKVFFS6blc0CvPrwNRhZv_w7IAv3SB5/view?usp=sharing" target="_blank">RESUME</a></b>
 
 

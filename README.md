@@ -3,7 +3,7 @@
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;Web+Developer;React+Developer;Quick+learner&color=cyan&center=true" />
 </div>
-<h4 align="center">Hi friends , I'm Pramod. I'm a passionate full stack web developer from Cuttack , Odisha.
+<h4 align="center">Hi friends , I'm Pramod. I'm a passionate full stack web developer from Cuttack , India.
  I believe everything is learnable in the world but in one condition you should have a strong desire for that.
 </h4>
 </a> </p>

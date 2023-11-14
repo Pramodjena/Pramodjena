@@ -3,7 +3,7 @@
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;Web+Developer;React+Developer;Quick+learner&color=cyan&center=true" />
 </div>
-<h4 align="center">Hi friends , I'm Pramod. I'm a passionate full stack web developer from Cuttack , India.
+<h4 align="center">Hi friends, I'm Pramod. I'm a passionate full-stack web developer from Cuttack, India.
  I believe everything is learnable in the world but in one condition you should have a strong desire for that.
 </h4>
 </a> </p>
@@ -13,7 +13,7 @@
 <h3> 🙋‍♂️ About Me </h3>
 
 - 🏢 I’m looking forward to work as a **Full Stack Web Developer**
-- 💬 Ask me about **HTML,CSS,JavaScript,TypeScript,React,Redux,Node,Express,MongoDB**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React, Redux, Node, Express, MongoDB**
 - 📧 How to reach me <b>**pramoodjena@gmail.com**</b>
 - 👨‍💻 Know more about me <b><a href="https://pramodjena.github.io" target="_blank" rel="noopener noreferrer">Portfolio</a></b>
 - 📰 Write article on <b><a href="https://medium.com/@pramoodjena" target="_blank" rel="noopener noreferrer">Blogs</a></b>
@@ -21,7 +21,7 @@
 
 
 
-<h3 align="right">QUOTE OF THE DAY - " Happiness is real , when shared."</h3>
+<h3 align="right">QUOTE OF THE DAY - " Happiness is real when shared."</h3>
    
 
 <h3 align="left">Connect with me:</h3>

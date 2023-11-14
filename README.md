@@ -3,14 +3,13 @@
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;Web+Developer;React+Developer;Quick+learner&color=cyan&center=true" />
 </div>
-<h4 align="center">Hi friends, I'm Pramod. I'm a passionate full-stack web developer from Cuttack, India.
- I believe everything is learnable in the world but in one condition you should have a strong desire for that.
+<h4 align="center"> I'm a graduate in B.Tech(CSE) from  Biju Pattanaik University of Technology, India. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.
 </h4>
 </a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodjena&label=Profile%20views&color=0e75b6&style=flat" alt="pramodjena" /> </p>
 <img height="200px" width="400px" align="right" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
 
-<h3> 🙋‍♂️ About Me </h3>
+##  About Me 
 
 - 🏢 I’m looking forward to work as a **Full Stack Web Developer**
 - 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React, Redux, Node, Express, MongoDB**
@@ -19,18 +18,13 @@
 - 📰 Write article on <b><a href="https://medium.com/@pramoodjena" target="_blank" rel="noopener noreferrer">Blogs</a></b>
 - 📄 Check out my <b><a href="https://drive.google.com/file/d/1m3s08EUctgjY3S4xVi7f_wJNMu_io_yb/view?usp=share_link" target="_blank" rel="noopener noreferrer">Resume</a></b>
 
-
-
-<h3 align="right">QUOTE OF THE DAY - " Happiness is real when shared."</h3>
    
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/pramodjena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pramodjena" height="30" width="40" /></a>
-<a href="https://twitter.com/pramodkzena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pramodkzena" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/pramod-kumar-jena-851738233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramod kumar jena" height="30" width="40" /></a>
-<a href="https://codesandbox.com/pramodjena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="pramodjena" height="30" width="40" /></a>
-</p>
+##  Connect with me
+[![Portfolio](https://img.shields.io/badge/-Porfolio-000?style=flat&logo=🔭&logoColor=white)](https://pramodjena.github.io/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pramod-kumar-jena-851738233/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pramoodjena@gmail.com)
+
 
  <div align="center"><h3 align="center">Frontend</h3>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">

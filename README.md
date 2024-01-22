@@ -12,7 +12,7 @@
 ##  About Me 
 
 - 🏢 I’m looking forward to work as a **Full Stack Web Developer**
-- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React, Redux, Node, Express, MongoDB**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React, Redux-Toolkit, Node, Express, MongoDB**
 - 📧 How to reach me <b>**pramoodjena@gmail.com**</b>
 - 👨‍💻 Know more about me <b><a href="https://pramodjena.github.io" target="_blank" rel="noopener noreferrer">Portfolio</a></b>
 - 📰 Write article on <b><a href="https://medium.com/@pramoodjena" target="_blank" rel="noopener noreferrer">Blogs</a></b>
